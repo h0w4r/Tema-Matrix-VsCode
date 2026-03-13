@@ -151,7 +151,19 @@
     "commandCenter.border": "#123526",
     "notifications.background": "#030705",
     "notifications.foreground": "#96CDB1",
-    "notifications.border": "#153A2B"
+    "notifications.border": "#153A2B",
+    "editorPane.background": "#020403",
+    "editorGroup.border": "#08110D",
+    "editorGroupHeader.border": "#08110D",
+    "editorGroupHeader.tabsBackground": "#020403",
+    "editorGroupHeader.noTabsBackground": "#020403",
+    "tab.unfocusedActiveBackground": "#020403",
+    "tab.unfocusedActiveForeground": "#8FC9A8",
+    "tab.unfocusedInactiveBackground": "#010302",
+    "tab.unfocusedInactiveForeground": "#446B58",
+    "editorToolbar.background": "#020403",
+    "editorStickyScroll.background": "#020403",
+    "editorStickyScrollHover.background": "#05100C"
   },
   "tokenColors": [
     {
