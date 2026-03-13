@@ -3,7 +3,11 @@
   "displayName": "Tema Matrix",
   "description": "A polished Matrix-inspired VS Code theme with a minimal custom icon set.",
   "version": "0.1.0",
-  "publisher": "tema-matrix",
+  "publisher": "h0w4r",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h0w4r/Tema-Matrix-VsCode.git"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"

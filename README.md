@@ -2,7 +2,7 @@
 
 Tema oscuro para Visual Studio Code inspirado en una interfaz tipo Matrix: negros profundos, verdes suaves para el trabajo diario y acentos menta brillantes en puntos clave. La extensión también incluye un conjunto propio de iconos minimalistas para mantener la estética en el explorador.
 
-![Tema Matrix preview](./assets/matrix-preview.svg)
+![Tema Matrix preview](https://github.com/h0w4r/Tema-Matrix-VsCode/raw/HEAD/assets/matrix-preview.svg)
 
 ## Qué incluye
 
