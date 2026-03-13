@@ -1,0 +1,41 @@
+{
+  "name": "tema-matrix-vscode",
+  "displayName": "Tema Matrix",
+  "description": "A polished Matrix-inspired VS Code theme with a minimal custom icon set.",
+  "version": "0.1.0",
+  "publisher": "tema-matrix",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "matrix",
+    "green",
+    "dark theme",
+    "icon theme",
+    "cyberpunk"
+  ],
+  "galleryBanner": {
+    "color": "#020403",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tema Matrix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tema-matrix-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "tema-matrix-icons",
+        "label": "Tema Matrix Icons",
+        "path": "./icon-theme/tema-matrix-icon-theme.json"
+      }
+    ]
+  }
+}

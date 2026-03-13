@@ -1,0 +1,90 @@
+{
+  "$schema": "vscode://schemas/icon-theme",
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "../icons/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "../icons/folder-open.svg"
+    },
+    "_root_folder": {
+      "iconPath": "../icons/root-folder.svg"
+    },
+    "_root_folder_open": {
+      "iconPath": "../icons/root-folder-open.svg"
+    },
+    "_file": {
+      "iconPath": "../icons/file.svg"
+    },
+    "_js": {
+      "iconPath": "../icons/javascript.svg"
+    },
+    "_ts": {
+      "iconPath": "../icons/typescript.svg"
+    },
+    "_json": {
+      "iconPath": "../icons/json.svg"
+    },
+    "_md": {
+      "iconPath": "../icons/markdown.svg"
+    },
+    "_html": {
+      "iconPath": "../icons/html.svg"
+    },
+    "_css": {
+      "iconPath": "../icons/css.svg"
+    },
+    "_python": {
+      "iconPath": "../icons/python.svg"
+    },
+    "_git": {
+      "iconPath": "../icons/git.svg"
+    },
+    "_image": {
+      "iconPath": "../icons/image.svg"
+    }
+  },
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "rootFolder": "_root_folder",
+  "rootFolderExpanded": "_root_folder_open",
+  "file": "_file",
+  "fileExtensions": {
+    "js": "_js",
+    "cjs": "_js",
+    "mjs": "_js",
+    "ts": "_ts",
+    "tsx": "_ts",
+    "json": "_json",
+    "jsonc": "_json",
+    "md": "_md",
+    "html": "_html",
+    "htm": "_html",
+    "css": "_css",
+    "scss": "_css",
+    "py": "_python",
+    "png": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "gif": "_image",
+    "svg": "_image"
+  },
+  "fileNames": {
+    ".gitignore": "_git",
+    ".gitattributes": "_git",
+    "package.json": "_json",
+    "tsconfig.json": "_json",
+    "README.md": "_md",
+    "readme.md": "_md"
+  },
+  "languageIds": {
+    "javascript": "_js",
+    "typescript": "_ts",
+    "json": "_json",
+    "markdown": "_md",
+    "html": "_html",
+    "css": "_css",
+    "python": "_python"
+  },
+  "hidesExplorerArrows": false
+}
