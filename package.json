@@ -2,9 +2,9 @@
   "name": "tema-matrix-vscode",
   "displayName": "Tema Matrix",
   "description": "A phosphor-neon Matrix-inspired VS Code theme with custom digital iconography.",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "publisher": "ChrisKirsch",
-  "icon": "https://raw.githubusercontent.com/h0w4r/Tema-Matrix-VsCode/master/assets/matrix-preview.png",
+  "icon": "assets/extension-icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/h0w4r/Tema-Matrix-VsCode.git"

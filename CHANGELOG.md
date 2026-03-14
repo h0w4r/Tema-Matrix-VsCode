@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.9
+
+- Rebuilt the README preview layout to remove overlapping text and improve spacing.
+- Added a dedicated local extension icon asset and updated the manifest to use it instead of a remote preview image.
+
 ## 0.1.8
 
 - Intensified editor contrast with more neon yellow and phosphor orange across functions, builtins, numbers, regex, escapes, warnings, and structural highlights.
