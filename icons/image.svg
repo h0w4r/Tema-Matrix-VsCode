@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <path d="M18 8h20l10 10v34a4 4 0 0 1-4 4H18a4 4 0 0 1-4-4V12a4 4 0 0 1 4-4Z" fill="#030906" stroke="#7ADDB4" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M38 8v14h14" fill="none" stroke="#4FF1B3" stroke-width="3" stroke-linejoin="round"/>
-  <circle cx="27" cy="28" r="3" fill="#8EF9C9"/>
-  <path d="M22 44l8-8 6 6 6-8 8 10" fill="none" stroke="#68DCC1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 8h20l10 10v34a4 4 0 0 1-4 4H18a4 4 0 0 1-4-4V12a4 4 0 0 1 4-4Z" fill="#030602" stroke="#D9FF77" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M38 8v14h14" fill="none" stroke="#8FFF2A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M20 19h18" stroke="#EDB391" stroke-width="2.5" stroke-linecap="square"/>
+  <path d="M22 46h20" stroke="#9EED91" stroke-width="2.5" stroke-linecap="square"/>
+  <path d="M45 18h4v4" fill="none" stroke="#FF7272" stroke-width="2" stroke-linecap="square"/>
+  <text x="32" y="38" fill="#F9FFF4" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700" text-anchor="middle">IMG</text>
 </svg>

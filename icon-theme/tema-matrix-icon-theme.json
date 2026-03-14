@@ -42,6 +42,105 @@
     },
     "_image": {
       "iconPath": "../icons/image.svg"
+    },
+    "_cobol": {
+      "iconPath": "../icons/cobol.svg"
+    },
+    "_rpg": {
+      "iconPath": "../icons/rpg.svg"
+    },
+    "_cl": {
+      "iconPath": "../icons/cl.svg"
+    },
+    "_dds": {
+      "iconPath": "../icons/dds.svg"
+    },
+    "_c": {
+      "iconPath": "../icons/c.svg"
+    },
+    "_cpp": {
+      "iconPath": "../icons/cpp.svg"
+    },
+    "_csharp": {
+      "iconPath": "../icons/csharp.svg"
+    },
+    "_java": {
+      "iconPath": "../icons/java.svg"
+    },
+    "_xml": {
+      "iconPath": "../icons/xml.svg"
+    },
+    "_yaml": {
+      "iconPath": "../icons/yaml.svg"
+    },
+    "_sql": {
+      "iconPath": "../icons/sql.svg"
+    },
+    "_shell": {
+      "iconPath": "../icons/shell.svg"
+    },
+    "_powershell": {
+      "iconPath": "../icons/powershell.svg"
+    },
+    "_docker": {
+      "iconPath": "../icons/docker.svg"
+    },
+    "_go": {
+      "iconPath": "../icons/go.svg"
+    },
+    "_rust": {
+      "iconPath": "../icons/rust.svg"
+    },
+    "_php": {
+      "iconPath": "../icons/php.svg"
+    },
+    "_ruby": {
+      "iconPath": "../icons/ruby.svg"
+    },
+    "_kotlin": {
+      "iconPath": "../icons/kotlin.svg"
+    },
+    "_swift": {
+      "iconPath": "../icons/swift.svg"
+    },
+    "_vue": {
+      "iconPath": "../icons/vue.svg"
+    },
+    "_react": {
+      "iconPath": "../icons/react.svg"
+    },
+    "_toml": {
+      "iconPath": "../icons/toml.svg"
+    },
+    "_ini": {
+      "iconPath": "../icons/ini.svg"
+    },
+    "_properties": {
+      "iconPath": "../icons/properties.svg"
+    },
+    "_terraform": {
+      "iconPath": "../icons/terraform.svg"
+    },
+    "_perl": {
+      "iconPath": "../icons/perl.svg"
+    },
+    "_lua": {
+      "iconPath": "../icons/lua.svg"
+    },
+    "_dart": {
+      "iconPath": "../icons/dart.svg"
+    },
+    "_astro": {
+      "iconPath": "../icons/astro.svg"
+    },
+    "_svelte": {
+      "iconPath": "../icons/svelte.svg"
+    },
+    "_make": {
+      "iconPath": "../icons/make.svg"
+    },
+    "_env": {
+      "iconPath": "../icons/env.svg"
     }
   },
   "folder": "_folder",
@@ -54,7 +153,7 @@
     "cjs": "_js",
     "mjs": "_js",
     "ts": "_ts",
-    "tsx": "_ts",
+    "tsx": "_react",
     "json": "_json",
     "jsonc": "_json",
     "md": "_md",
@@ -67,7 +166,70 @@
     "jpg": "_image",
     "jpeg": "_image",
     "gif": "_image",
-    "svg": "_image"
+    "svg": "_image",
+    "cob": "_cobol",
+    "cbl": "_cobol",
+    "cobol": "_cobol",
+    "cpy": "_cobol",
+    "rpg": "_rpg",
+    "rpgle": "_rpg",
+    "sqlrpgle": "_rpg",
+    "sqlrpg": "_rpg",
+    "cl": "_cl",
+    "clle": "_cl",
+    "clp": "_cl",
+    "dds": "_dds",
+    "dspf": "_dds",
+    "prtf": "_dds",
+    "pf": "_dds",
+    "lf": "_dds",
+    "c": "_c",
+    "h": "_c",
+    "cpp": "_cpp",
+    "cxx": "_cpp",
+    "cc": "_cpp",
+    "hpp": "_cpp",
+    "hxx": "_cpp",
+    "hh": "_cpp",
+    "cs": "_csharp",
+    "csx": "_csharp",
+    "java": "_java",
+    "xml": "_xml",
+    "xsd": "_xml",
+    "xsl": "_xml",
+    "xslt": "_xml",
+    "yaml": "_yaml",
+    "yml": "_yaml",
+    "sql": "_sql",
+    "ps1": "_powershell",
+    "psm1": "_powershell",
+    "psd1": "_powershell",
+    "sh": "_shell",
+    "bash": "_shell",
+    "zsh": "_shell",
+    "go": "_go",
+    "rs": "_rust",
+    "php": "_php",
+    "rb": "_ruby",
+    "kt": "_kotlin",
+    "kts": "_kotlin",
+    "swift": "_swift",
+    "vue": "_vue",
+    "jsx": "_react",
+    "toml": "_toml",
+    "ini": "_ini",
+    "cfg": "_ini",
+    "conf": "_ini",
+    "properties": "_properties",
+    "tf": "_terraform",
+    "tfvars": "_terraform",
+    "pl": "_perl",
+    "pm": "_perl",
+    "lua": "_lua",
+    "dart": "_dart",
+    "astro": "_astro",
+    "svelte": "_svelte",
+    "env": "_env"
   },
   "fileNames": {
     ".gitignore": "_git",
@@ -75,7 +237,57 @@
     "package.json": "_json",
     "tsconfig.json": "_json",
     "README.md": "_md",
-    "readme.md": "_md"
+    "readme.md": "_md",
+    "Dockerfile": "_docker",
+    "dockerfile": "_docker",
+    "docker-compose.yml": "_docker",
+    "docker-compose.yaml": "_docker",
+    ".dockerignore": "_docker",
+    "pom.xml": "_xml",
+    "build.gradle": "_java",
+    "settings.gradle": "_java",
+    ".env": "_env",
+    "Makefile": "_make",
+    "makefile": "_make",
+    "GNUmakefile": "_make",
+    "Jenkinsfile": "_make",
+    "package-lock.json": "_json",
+    "yarn.lock": "_json",
+    "pnpm-lock.yaml": "_yaml",
+    "bun.lockb": "_json",
+    "composer.json": "_php",
+    "composer.lock": "_php",
+    "Cargo.toml": "_rust",
+    "Cargo.lock": "_rust",
+    "requirements.txt": "_python",
+    "pyproject.toml": "_python",
+    "Pipfile": "_python",
+    "Gemfile": "_ruby",
+    "Gemfile.lock": "_ruby",
+    "go.mod": "_go",
+    "go.sum": "_go",
+    "Podfile": "_swift",
+    "Cartfile": "_swift",
+    "pubspec.yaml": "_dart",
+    "vite.config.ts": "_ts",
+    "vite.config.js": "_js",
+    "next.config.js": "_js",
+    "next.config.mjs": "_js",
+    "tailwind.config.js": "_js",
+    "tailwind.config.ts": "_ts",
+    "tsconfig.base.json": "_json",
+    "eslint.config.js": "_js",
+    "eslint.config.mjs": "_js",
+    "eslint.config.ts": "_ts",
+    "QCLSRC": "_cl",
+    "QRPGSRC": "_rpg",
+    "QRPGLESRC": "_rpg",
+    "QCBLLESRC": "_cobol",
+    "QDDSSRC": "_dds",
+    "QCMDSRC": "_cl",
+    ".env.local": "_env",
+    ".env.development": "_env",
+    ".env.production": "_env"
   },
   "languageIds": {
     "javascript": "_js",
@@ -84,7 +296,41 @@
     "markdown": "_md",
     "html": "_html",
     "css": "_css",
-    "python": "_python"
+    "python": "_python",
+    "cobol": "_cobol",
+    "rpgle": "_rpg",
+    "rpg": "_rpg",
+    "cl": "_cl",
+    "dds": "_dds",
+    "c": "_c",
+    "cpp": "_cpp",
+    "csharp": "_csharp",
+    "java": "_java",
+    "xml": "_xml",
+    "yaml": "_yaml",
+    "sql": "_sql",
+    "shellscript": "_shell",
+    "powershell": "_powershell",
+    "dockerfile": "_docker",
+    "go": "_go",
+    "rust": "_rust",
+    "php": "_php",
+    "ruby": "_ruby",
+    "kotlin": "_kotlin",
+    "swift": "_swift",
+    "vue": "_vue",
+    "javascriptreact": "_react",
+    "typescriptreact": "_react",
+    "toml": "_toml",
+    "ini": "_ini",
+    "properties": "_properties",
+    "terraform": "_terraform",
+    "perl": "_perl",
+    "lua": "_lua",
+    "dart": "_dart",
+    "astro": "_astro",
+    "svelte": "_svelte",
+    "makefile": "_make"
   },
   "hidesExplorerArrows": false
 }

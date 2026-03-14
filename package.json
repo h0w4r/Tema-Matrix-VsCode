@@ -1,13 +1,18 @@
 {
   "name": "tema-matrix-vscode",
   "displayName": "Tema Matrix",
-  "description": "A polished Matrix-inspired VS Code theme with a minimal custom icon set.",
-  "version": "0.1.1",
+  "description": "A phosphor-neon Matrix-inspired VS Code theme with custom digital iconography.",
+  "version": "0.1.8",
   "publisher": "ChrisKirsch",
+  "icon": "assets/matrix-preview1.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/h0w4r/Tema-Matrix-VsCode.git"
   },
+  "bugs": {
+    "url": "https://github.com/h0w4r/Tema-Matrix-VsCode/issues"
+  },
+  "homepage": "https://github.com/h0w4r/Tema-Matrix-VsCode",
   "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"
@@ -18,9 +23,15 @@
   "keywords": [
     "matrix",
     "green",
+    "lime",
+    "phosphor",
+    "neon",
     "dark theme",
     "icon theme",
-    "cyberpunk"
+    "cyberpunk",
+    "ibmi",
+    "rpg",
+    "cobol"
   ],
   "galleryBanner": {
     "color": "#020403",
