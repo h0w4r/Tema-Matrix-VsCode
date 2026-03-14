@@ -2,7 +2,7 @@
 
 Tema oscuro para Visual Studio Code inspirado en la idea visual de Matrix: negro profundo, verdes fosforicos, lima neon, destellos amarillo-verdosos, acentos anaranjados fosforescentes y rojos muy puntuales para errores y delimitadores estructurales. La extension incluye tambien iconografia propia con formas mas geometricas y digitales para reforzar la estetica del workbench.
 
-![Tema Matrix preview](./assets/matrix-preview1.png)
+![Tema Matrix preview](https://raw.githubusercontent.com/h0w4r/Tema-Matrix-VsCode/master/assets/matrix-preview.png)
 
 ## Que incluye
 
